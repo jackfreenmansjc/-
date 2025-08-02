@@ -61,7 +61,6 @@
 		
 		
 		
-		
 		1. 感知层（数据采集与融合）
 		模块	主要功能	备注
 		GNSS/RTK	提供全局位置信息（Lat/Lon/Alt）	精度约为2-5cm（RTK）
@@ -113,4 +112,3 @@
 		安全策略	如低电返航、信号丢失返航等
 		数据记录与回溯	实验数据与关键过程可追溯
 		
-<img width="1110" height="8217" alt="image" src="https://github.com/user-attachments/assets/a5ad6857-180c-4829-b930-f3da228bb7ed" />
